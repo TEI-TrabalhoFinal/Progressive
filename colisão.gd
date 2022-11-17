@@ -1,4 +1,7 @@
+//Video 04_Script e Animações do Player
 //Arquivo com codigo de velocidade, movimento, gravidade e colisão
+
+extends KinematicBody2D
 
 var velocity = Vector2.ZERO
 var move_speed = 480
